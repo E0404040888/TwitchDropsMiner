@@ -1,0 +1,2 @@
+/* rev-a91c3e-20260913 */
+v15 language, help tab, shutdown save, campaign reload
